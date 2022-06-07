@@ -1,10 +1,10 @@
-|P001858|འཇིགས་བྱེད་ཐེམ་སྐས་བཅོ་བརྒྱད། 
+|I52E92B81|འཇིགས་བྱེད་ཐེམ་སྐས་བཅོ་བརྒྱད། 
 | --- | --- 
 |Alternative Title |བཅོམ་ལྡན་འདས་དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པའི་བསྙེན་སྒྲུབ་ལས་གསུམ་གྱི་ཆོས་སྐོར་ཐེམ་སྐས་བཅོ་བརྒྱད།
 |Author| བློ་བཟང་ལུང་རྟོགས་བསྟན་འཛིན་འཕྲིན་ལས།
 |BDRC ID | W1KG11794
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P001858)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P001858/releases/download/v1/jikje_temke_chobgye_plain_P001858.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P001858/releases/download/v1/jikje_temke_chobgye_pages_P001858.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I52E92B81)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I52E92B81/releases/download/v1/jikje_temke_chobgye_plain_I52E92B81.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I52E92B81/releases/download/v1/jikje_temke_chobgye_pages_I52E92B81.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1KG11794)
